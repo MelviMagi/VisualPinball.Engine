@@ -1,0 +1,2157 @@
+{
+  "sitemap": {
+    "baseUrl": "https://docs.visualpinball.org/",
+    "changefreq": "weekly",
+    "priority": 0.5
+  },
+  "homepages": [],
+  "source_base_path": "/github/workspace/VisualPinball.Unity/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../../CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "CHANGELOG.html",
+          "hash": "Ekz8FsSRflA4PnKd2uPcaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "CNAME",
+      "output": {
+        "resource": {
+          "relative_path": "CNAME"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "android-chrome-192x192.png",
+      "output": {
+        "resource": {
+          "relative_path": "android-chrome-192x192.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "android-chrome-256x256.png",
+      "output": {
+        "resource": {
+          "relative_path": "android-chrome-256x256.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.DeviceSwitch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.DeviceSwitch.html",
+          "hash": "WFKD9P73pIsQwTghglzyog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.FlipperApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.FlipperApi.html",
+          "hash": "tHDtAZ21YTx5CETim5d+DA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.ItemApi-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.ItemApi-2.html",
+          "hash": "4T8jPtsBT6gMsjOhLgZV6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.Patcher.TablePatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.Patcher.TablePatcher.html",
+          "hash": "hJSsRhs4+J4mEuntQAVFoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.Patcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.Patcher.html",
+          "hash": "r6f5ErFcuCnNBLolzrOB2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.TroughApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.TroughApi.html",
+          "hash": "+vZajyFQa8bdlbBg5DEaGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VisualPinball.Unity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VisualPinball.Unity.html",
+          "hash": "4zBaLH8yMClkUpasnWrAJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "llCgNcR9ONlw9o+mhf2CPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "oMTg2XyUDfAWXkaYYn+0JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "apple-touch-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "apple-touch-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/advanced/camera-settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/advanced/camera-settings.html",
+          "hash": "M37Y/mlZ5MaOn3wO0orlrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/advanced/camera-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/advanced/camera-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/coil-manager-lamp.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/coil-manager-lamp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/coil-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/coil-manager.html",
+          "hash": "eRj184SonP9n18E/IZ3V4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/coil-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/coil-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/lamp-manager-coil.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/lamp-manager-coil.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/lamp-manager-gameplay.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/lamp-manager-gameplay.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/lamp-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/lamp-manager.html",
+          "hash": "RXEzqfd8ZE8Wug+7L90h1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/lamp-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/lamp-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/materials.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/materials.html",
+          "hash": "BpkSTLlUwRrs+/qxD4dcOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/multiple-tables-lock.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/multiple-tables-lock.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/multiple-tables.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/multiple-tables.html",
+          "hash": "u2cGwoe1owKKGpD8CNJkpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/properties-vpe-vs-vp.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/properties-vpe-vs-vp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/switch-manager-ids.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/switch-manager-ids.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/switch-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/switch-manager.html",
+          "hash": "j4gdEcEhWRbBTa9hK5PzhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/switch-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/switch-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/unity-components.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/unity-components.html",
+          "hash": "CiXM6zp7KeCRcCOFsf+tmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/editor/wire-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/editor/wire-manager.html",
+          "hash": "XJq6e6ZZQsUw8jROfbyl7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/editor/wire-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/editor/wire-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/introduction/comparison-vpx-vpe.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/introduction/comparison-vpx-vpe.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/introduction/features.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/introduction/features.html",
+          "hash": "DDT02XItnHcu+6MqT+xebA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/introduction/jp-header.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/introduction/jp-header.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/introduction/mesh-example.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/introduction/mesh-example.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/introduction/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/introduction/overview.html",
+          "hash": "yOCkX+DpI36+SXEZXjFpAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/introduction/unity-colliders.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/introduction/unity-colliders.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/introduction/unity-drag-points.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/introduction/unity-drag-points.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/introduction/unity-editor.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/introduction/unity-editor.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/display-add-component.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/display-add-component.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/display-dmd-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/display-dmd-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/displays.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/displays.html",
+          "hash": "Vqfi/1lv7XZsPJpco5LWgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/dmd-game_over.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/dmd-game_over.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/gamelogic-engine.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/gamelogic-engine.html",
+          "hash": "2HQ+LZkw1hnvYgOboiwwCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/manual.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/manual.html",
+          "hash": "uiU0z10T2XV3RzsIh8EzCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/collision-switch-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/collision-switch-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/collision-switch-switch-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/collision-switch-switch-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/collision-switches.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/collision-switches.html",
+          "hash": "XQHZLQMn5xf/Xza/j9/D7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/drop-target-bank-coil-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/drop-target-bank-coil-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/drop-target-bank-inspector-runtime.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/drop-target-bank-inspector-runtime.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/drop-target-bank-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/drop-target-bank-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/drop-target-banks.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/drop-target-banks.html",
+          "hash": "GvZtNsuZ6mZRvYrnLSoBLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/flipper-collider-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/flipper-collider-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/flipper-correction-asset.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/flipper-correction-asset.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/flipper-correction-polarities.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/flipper-correction-polarities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/flipper-correction-velocities.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/flipper-correction-velocities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/flippers.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/flippers.html",
+          "hash": "j7YRuZ5BuqC9wqr/dxG0rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/light-group-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/light-group-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/light-groups.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/light-groups.html",
+          "hash": "sJEye68tD0jKeTHYDLzO8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/rotator-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/rotator-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/rotators.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/rotators.html",
+          "hash": "fT9cAGdv3Cj85tJA7Jb8zQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/slingshot-curve.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/slingshot-curve.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/slingshot-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/slingshot-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/slingshots.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/slingshots.html",
+          "hash": "QRwCZmgd/2zFZnfdZR/jsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/teleporter-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/teleporter-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/teleporters.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/teleporters.html",
+          "hash": "9JlWaxC2HK8E8Lo7ZGoO2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-2c1s.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-2c1s.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-2cns.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-2cns.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-coils.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-coils.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-mechanical.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-mechanical.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-opto.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-opto.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-single-ball.gif",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-single-ball.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/manual/mechanisms/trough-switches.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/manual/mechanisms/trough-switches.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/manual/mechanisms/troughs.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/manual/mechanisms/troughs.html",
+          "hash": "0WCvE2ZskbSStfshZt+knQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/setup/installing-vpe.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/setup/installing-vpe.html",
+          "hash": "ycyOmqeEuAjnMLCoeLN1Nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/setup/running-vpe.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/setup/running-vpe.html",
+          "hash": "CSrYqnj5sCZfFDyjIANvQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-create-new-project.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-create-new-project.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-first-play.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-first-play.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-gizmo-size.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-gizmo-size.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-hdrp-empty-scene.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-hdrp-empty-scene.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-hdrp-test-scene.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-hdrp-test-scene.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-imported-table-aligned.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-imported-table-aligned.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-imported-table-ugly-gizmos.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-imported-table-ugly-gizmos.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-imported-table.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-imported-table.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-input-system-warning.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-input-system-warning.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-package-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-package-manager.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-packages-after-installation.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-packages-after-installation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/setup/unity-scoped-registry.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/setup/unity-scoped-registry.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "creators-guide/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/toc.html",
+          "hash": "x3+9AvMUtj+oxMgMeTjoOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/tutorials/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/tutorials/index.html",
+          "hash": "ABqW819Ub62giVEjHWZl/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/1-prepare-artwork.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/1-prepare-artwork.html",
+          "hash": "3PCzLPb+U7cgekMQVxSdQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/2-create-mesh.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/2-create-mesh.html",
+          "hash": "ZdEwescspD/oyf94nl9iWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/3-uv-map-mesh.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/3-uv-map-mesh.html",
+          "hash": "ACeK2ZXqwUGEfAe18RIQtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/4-import-into-unity.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/4-import-into-unity.html",
+          "hash": "4C+Xch8GkjQbkb/CSKXOTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-duplicated-surface.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-duplicated-surface.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-edges-selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-edges-selected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-extrude.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-extrude.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-extruded.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-extruded.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-material-geometry.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-material-geometry.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-material-slots.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-material-slots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-no-lower-bevel.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-no-lower-bevel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-normals.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-normals.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-poly-reduction.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-poly-reduction.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-select-coplanar.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-select-coplanar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-shapes.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-shapes.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-triangle-selected-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-triangle-selected-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-triangle-selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-triangle-selected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-triangulated.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-triangulated.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-uv-mapped.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-uv-mapped.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/blender-uv-mapping.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/blender-uv-mapping.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-export-svg.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-export-svg.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-export-texture.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-export-texture.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-joined-artwork.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-joined-artwork.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-joined-surfaces.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-joined-surfaces.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-new-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-separate-artwork.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/illustrator-separate-artwork.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/index.html",
+          "hash": "n/dbIKqjz5vs31PvagS7xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/t2-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/t2-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/unity-decal-material-preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/unity-decal-material-preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/unity-imported.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/unity-imported.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/unity-textured.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/unity-textured.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/unity-transparent-textured.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/unity-transparent-textured.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "creators-guide/tutorials/relatistic-plastics/unity-transparent.png",
+      "output": {
+        "resource": {
+          "relative_path": "creators-guide/tutorials/relatistic-plastics/unity-transparent.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "creators-guide/vpe.md",
+      "output": {
+        ".html": {
+          "relative_path": "creators-guide/vpe.html",
+          "hash": "GTS1L0plQw5kRfVcFcaHZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon-16x16.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon-16x16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon-32x32.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon-32x32.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/social-poster.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/social-poster.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "D7TAySnhKGzxVVQ/jhS/Zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/index.html",
+          "hash": "VkPxAabZ5jN89If8z99FMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/mpf/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/mpf/index.html",
+          "hash": "l/8BcKY2Nd/Pm3CQIDAkLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/mpf/setup.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/mpf/setup.html",
+          "hash": "NJDXdFfiZLeX7Z4Ei0ZhKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/mpf/unity-add-component.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/mpf/unity-add-component.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/mpf/usage.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/mpf/usage.html",
+          "hash": "8UWthM7G2yFDYlGwDZaWeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/pinmame/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/pinmame/index.html",
+          "hash": "N+YmOcSSCcBIqnnCByrDkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/pinmame/mech-example-t2.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/pinmame/mech-example-t2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/pinmame/mech-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/pinmame/mech-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/pinmame/mechs.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/pinmame/mechs.html",
+          "hash": "ARwcFdEPfTOK1iqD6GeEgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/pinmame/pinmame-logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/pinmame/pinmame-logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "plugins/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/toc.html",
+          "hash": "OWBPIPrsUSJBmDcZMdVd0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/banner.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/banner.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/bridge-component.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/bridge-component.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/change-player-state-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/change-player-state-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/coils.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/coils.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/visual-scripting/complementary-usage.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/visual-scripting/complementary-usage.html",
+          "hash": "eTCX120mUnDvePv8xUpmCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/create-player-state-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/create-player-state-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/displays.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/displays.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/event-setup.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/event-setup.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/get-lamp-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/get-lamp-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/get-switch-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/get-switch-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/get-variable-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/get-variable-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/increase-variable-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/increase-variable-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/visual-scripting/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/visual-scripting/index.html",
+          "hash": "K+L41+E4u+4RuhVJu8l6Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/lamp-sequence-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/lamp-sequence-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/visual-scripting/lamps.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/visual-scripting/lamps.html",
+          "hash": "JWnukYeAsvbPopqJ4CMV9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/lamps.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/lamps.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/visual-scripting/node-reference.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/visual-scripting/node-reference.html",
+          "hash": "9wCSDrh+nz3P8tNny/Ck9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/on-coil-changed.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/on-coil-changed.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/on-switch-enabled.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/on-switch-enabled.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/on-variable-changed-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/on-variable-changed-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/pinball-event-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/pinball-event-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/pulse-coil-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/pulse-coil-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/set-coil-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/set-coil-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/set-lamp-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/set-lamp-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/set-variable-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/set-variable-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/visual-scripting/setup.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/visual-scripting/setup.html",
+          "hash": "MQY/OfcAQ4dUnEn9nIf8gA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/switch-lamp-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/switch-lamp-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/switch-lamp-example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/switch-lamp-example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/switches.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/switches.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/trigger-event-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/trigger-event-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/update-display-example.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/update-display-example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/variables-gle-inspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/variables-gle-inspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "plugins/visual-scripting/variables-light-events.png",
+      "output": {
+        "resource": {
+          "relative_path": "plugins/visual-scripting/variables-light-events.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/visual-scripting/variables.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/visual-scripting/variables.html",
+          "hash": "xZ+MRiMCNHsiK8w85cxMNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "safari-pinned-tab.svg",
+      "output": {
+        "resource": {
+          "relative_path": "safari-pinned-tab.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "site.webmanifest",
+      "output": {
+        "resource": {
+          "relative_path": "site.webmanifest"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "template/vpe/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "template/vpe/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "qdE+e0K+mKDluulUsTFmFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "vpe.svg",
+      "output": {
+        "resource": {
+          "relative_path": "vpe.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 45,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
